@@ -1,5 +1,5 @@
-#jumboStyle {
-background: url("/projects/portfolio/assets/recordPlayer.jpg") no-repeat center;
+main.css {
+background-image: url("/projects/portfolio/assets/recordPlayer.jpg");
  background-size: cover;
  color: red;
  text-align: center;
